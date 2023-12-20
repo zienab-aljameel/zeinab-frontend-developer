@@ -1,0 +1,88 @@
+@media (min-width: 1400px) and (max-width: 1800px) {
+    * {
+        transition: 0.7s;
+    }
+    .sec1 .contact-me-container .contact-me .profile-image {
+        width: 160px;
+        height: 145px;
+    }
+    .sec1 .contact-me-container .contact-me .name h1 {
+        font-size: 25px;
+    }
+    .sec1 .contact-me-container .contact-me .specialty {
+        font-size: 15px;
+    }
+    .sec1 .informations .row .column .information-title {
+        font-size: 15px;
+    }
+    .sec1 .informations .row .column .text {
+        font-size: 14px;
+    }
+    .sec1 .informations {
+        width: 80%;
+        height: 36%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .sec1 .informations .row .icon {
+        width: 50px;
+        height: 47px;
+        font-size: 22px;
+    }
+    .sec1 .contact-me-container .contact-me .social-icons {
+        width: 45%;
+    }
+    .sec1 .contact-me-container .contact-me .social-icons i {
+        font-size: 20px;
+    }
+    .sec1 .main .about-me {
+        font-size: 18px;
+    }
+    .sec1 .informations .Row .row .information-title {
+        font-size: 19px;
+    }
+    .sec1 .informations .row .column .text {
+        font-size: 16px;
+    }
+    .sec1 .certificates .images img {
+        width: 280px;
+    }
+    .sec1 .content .projects-row {
+        width: 100%;
+        height: 85%;
+    }
+    .container .project-image-container .instagram {
+        height: 217px;
+    }
+    .instagram .icon {
+        font-size: 24px;
+        padding: 15px;
+    }
+    .container .project-name-container .project-name h5 {
+        font-size: 17px;
+    }
+    .container .project-name-container .project-name .text {
+        font-size: 17px;
+    }
+    div ul li {
+        font-size: 17px;
+    }
+    .wrapper nav label {
+        font-size: 20px;
+    }
+    .sec1 .informations .Row .row .text {
+        font-size: 14.8px;
+        line-height: 2.6ch;
+        font-weight: 600;
+    }
+    .form3 i{
+        color: #14a1bb;
+        z-index: 9;
+        cursor: pointer;
+        font-size: 14px;
+        position: absolute;
+        top: 39%;
+        right: 13%;
+    }
+}
